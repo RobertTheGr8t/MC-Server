@@ -1,4 +1,4 @@
-# MC-Horror-Server
+# MC-Server
 
 1 - Start by <a href="https://launcher-files.modrinth.com/versions/0.6.0/windows/Modrinth App_0.6.0_x64_en-US.msi"> Downloading Modrinth </a>
           
