@@ -14,7 +14,12 @@
 5 - Select from file
           
 ![Screenshot 2023-11-17 231307](https://github.com/DieCommiter/Robert-Modded-Server/assets/111189845/98bc7e72-0bb5-4beb-8b5b-bd7424270779)
-          
-6 - Select the server pack and you're done, the mods will auto install when you join
+
+6 - Click on the pack and go to options and override gloabal java installations and chose java 17
+![image](https://github.com/RobertTheGr8t/MC-Server/assets/111189845/b16f96de-21cb-4835-8ee7-b30ba2eb2566)
+
+7 - Select the server pack and you're done, the mods will auto install when you join
+
+
 
 **Always Make Sure You Turn Off VSYNC Ingame**
