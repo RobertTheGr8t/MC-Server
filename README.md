@@ -1,6 +1,6 @@
 # MC-Server
 
-1 - Start by Downloading and installing (if you haven't previously) <a href="https://www.java.com/download/ie_manual.jsp"> Java 8 </a> and <a href="https://www.oracle.com/uk/java/technologies/downloads/#jdk17-windows"> Java 17 </a> and finally Downloading and installing <a href="https://launcher-files.modrinth.com/versions/0.6.0/windows/Modrinth App_0.6.0_x64_en-US.msi"> Modrinth </a>
+1 - Start by Downloading and installing (if you haven't previously) <a href="https://www.java.com/download/ie_manual.jsp"> Java 8 </a> and <a href="https://www.oracle.com/uk/java/technologies/downloads/#jdk17-windows"> Java 17 </a> and finally Downloading and installing <a href="https://modrinth.com/app"> Modrinth </a>
 
 
 
